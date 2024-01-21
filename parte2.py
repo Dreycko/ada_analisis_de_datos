@@ -27,3 +27,4 @@ print(f"Promedios de personas que siguen vivas: {promedio_alive}")
 
 
 
+
